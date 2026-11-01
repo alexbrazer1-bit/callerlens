@@ -1,12 +1,12 @@
 {
-  "ui": 41,
-  "native": 41,
-  "name": "2.4.0",
-  "apk": "https://github.com/alexbrazer1-bit/callerlens/releases/download/v2.4.0/CallerLens.apk",
+  "ui": 42,
+  "native": 42,
+  "name": "2.5.0",
+  "apk": "https://github.com/alexbrazer1-bit/callerlens/releases/download/v2.5.0/CallerLens.apk",
   "files": [
     "assets/dunes-B78avhFn.jpg",
-    "assets/index-CpABaj7h.css",
-    "assets/index-DsGmYxb_.js",
+    "assets/index-BPDk5RnS.js",
+    "assets/index-DWlF943m.css",
     "assets/lake-Djhh66DQ.jpg",
     "assets/logo-DA7fWDTJ.jpg",
     "assets/road-D18dvnQ7.jpg",
