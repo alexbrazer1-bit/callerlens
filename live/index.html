@@ -1,0 +1,22 @@
+<!doctype html>
+<html lang="en" class="native">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+    <meta name="theme-color" content="#0c3f86" />
+    <title>CallerLens</title>
+    <style>html,body,#root{height:100%;margin:0}#boot{color:#0c3f86;background:#f4f7fb;place-items:center;font-family:sans-serif;display:grid;position:fixed;inset:0}</style>
+    <script type="module" crossorigin src="./assets/index-DsGmYxb_.js"></script>
+    <link rel="stylesheet" crossorigin href="./assets/index-CpABaj7h.css">
+  </head>
+  <body>
+    <div id="boot">Opening CallerLens…</div>
+    <div id="root"></div>
+    <script>
+      window.addEventListener("error", function (event) {
+        var boot = document.getElementById("boot");
+        if (boot) boot.textContent = "Could not open: " + (event.message || "unknown error");
+      });
+    </script>
+  </body>
+</html>
