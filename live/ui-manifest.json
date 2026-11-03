@@ -1,12 +1,12 @@
 {
-  "ui": 46,
+  "ui": 47,
   "native": 46,
   "name": "2.8.0",
   "apk": "https://github.com/alexbrazer1-bit/callerlens/releases/download/v2.8.0/CallerLens.apk",
   "files": [
     "assets/dunes-B78avhFn.jpg",
-    "assets/index-Bx_W-goY.js",
     "assets/index-DWlF943m.css",
+    "assets/index-rJPxXX2W.js",
     "assets/lake-Djhh66DQ.jpg",
     "assets/logo-DA7fWDTJ.jpg",
     "assets/road-D18dvnQ7.jpg",
